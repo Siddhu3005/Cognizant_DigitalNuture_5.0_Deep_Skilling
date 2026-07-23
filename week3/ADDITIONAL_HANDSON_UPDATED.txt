@@ -1,1 +1,7 @@
-Added week3 contents
+Week 3 – Cognizant Digital Nature 5.0 Hands-on
+
+Topics Covered
+
+- Spring REST
+- JSON Web Token (JWT)
+- Hands-on Exercises

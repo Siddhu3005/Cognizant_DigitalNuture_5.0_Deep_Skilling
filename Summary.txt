@@ -1,0 +1,10 @@
+Week 1 – Cognizant Digital Nature 5.0 Hands-on
+
+Topics Covered
+
+- Data Structures and Algorithms
+- Design Principles and Design Patterns
+- JUnit Basics
+- Mockito Basics
+- PL/SQL
+- SLF4J Logging

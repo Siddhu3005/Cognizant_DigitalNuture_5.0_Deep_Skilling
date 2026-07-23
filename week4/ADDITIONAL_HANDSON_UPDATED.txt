@@ -1,1 +1,7 @@
-Added week4 contents
+Week 4 – Cognizant Digital Nature 5.0 Hands-on
+
+Topics Covered
+
+- Microservices Architecture
+- API Gateway
+- Hands-on Exercises

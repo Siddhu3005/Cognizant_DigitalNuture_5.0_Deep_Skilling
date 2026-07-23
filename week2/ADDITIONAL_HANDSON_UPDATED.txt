@@ -1,1 +1,7 @@
-Additional handson updated
+Week 2 – Cognizant Digital Nature 5.0 Hands-on
+
+Topics Covered
+
+- Spring Core
+- Maven
+- Spring Data JPA
